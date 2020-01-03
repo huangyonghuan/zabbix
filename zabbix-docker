@@ -1,4 +1,3 @@
-# zabbix
 zabbix安装
 docker run --name mysql-server  --restart=always -t \
       -e MYSQL_DATABASE="zabbix" \
