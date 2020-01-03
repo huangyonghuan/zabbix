@@ -1,0 +1,13 @@
+OSVersion:10.0.18362
+OSType:x64
+ScreenResolution:1440x960
+CPUProcessor:Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+CPUCores:8
+MemorySize:8037MB
+GPU0:Intel(R) UHD Graphics 620
+GPU0MemorySize:1024MB
+GPU1:NVIDIA GeForce MX150
+GPU1MemorySize:2048MB
+DirectXVersion:DirectX 12
+OpenGLRenderer:GeForce MX150/PCIe/SSE2
+OpenGLVersion:4.6.0 NVIDIA 399.07
